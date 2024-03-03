@@ -1,0 +1,9 @@
+name: RubixianRanks
+version: '1.0-SNAPSHOT'
+author: DcRubik
+main: org.dcrubik.rubixianranks.RubixianRanks
+commands:
+  setrank:
+    description: The command to give ranks in Rubixian by DcRubik
+  test:
+    description: Admin command lmao. DcRubik es el puto amo.
