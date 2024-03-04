@@ -26,9 +26,9 @@ public class RankListeners implements Listener {
         if(!config.contains(uuid)){
             RankManager.setRank(Rank.DEFAULT, player);
         } else {
-            Rank rank = RankManager.getRank(player); // Obtener el rango del jugador
+            Rank rank = RankManager.getRank(player);
             RankManager.removePermissions(player);
-            RankManager.setPermissions(player, rank); // Pasar el rango como argumento
+            RankManager.setPermissions(player, rank);
         }
 
         NametagManager.setNametag(player);
