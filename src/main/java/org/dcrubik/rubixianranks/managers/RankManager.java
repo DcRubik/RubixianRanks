@@ -20,7 +20,7 @@ public class RankManager {
         }
         config.set(uuid, rank.name());
         main.saveConfig();
-        setPermissions(player, rank); // Aquí es donde se llama al método setPermissions
+        setPermissions(player, rank);
     }
 
     public static Rank getRank(Player player) {
