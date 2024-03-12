@@ -1,7 +1,0 @@
-org\dcrubik\rubixianranks\commands\TestCommand.class
-org\dcrubik\rubixianranks\RubixianRanks.class
-org\dcrubik\rubixianranks\managers\RankManager.class
-org\dcrubik\rubixianranks\managers\NametagManager.class
-org\dcrubik\rubixianranks\storage\Rank.class
-org\dcrubik\rubixianranks\commands\SetRankCommand.class
-org\dcrubik\rubixianranks\listeners\RankListeners.class
