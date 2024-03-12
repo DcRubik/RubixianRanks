@@ -9,8 +9,8 @@ I made this plugin because I wanted to test a own rank system and it works well.
 
 ## Commands
 *The commands are the next ones:*
-```/setrank <player> <rank>``` - **To set a player a rank**
-```/test``` - **To see if the plugin works properly**
+- ```/setrank <player> <rank>``` - **To set a player a rank**
+- ```/test``` - **To see if the plugin works properly**
 
 ## Contributions
 Any contributions will be accepted. And it will be mentioned.
